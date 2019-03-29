@@ -2,7 +2,7 @@ package com.soohyun.quiz;
 
 public class God {
 
-	private static final God god = new God();
+	private static final God god = new God();  //싱글톤이라고 불린다.
 	
 	private God() {
 	
